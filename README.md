@@ -2,12 +2,8 @@
 This is an AI-powered startup research assistant that helps you explore emerging trends, generate startup ideas, and plan execution — all based on real-time news. It uses Groq’s LLaMA3-70B model for lightning-fast insights and DuckDuckGo for up-to-date news articles.
 
 # What It Does
-- Live News Search
-Fetches the latest news related to your startup topic.
-
-- AI Summarization
-Summarizes the news into digestible insights.
-
+- Real-Time News Collection - Fetches the latest news related to your startup topic.
+- AI-Powered Summarization - Turns scattered news into a concise summary.
 - Agentic Workflow
 Multiple specialized AI agents generate:
 
@@ -17,11 +13,17 @@ Multiple specialized AI agents generate:
 📢 Go-to-Market Strategy
 ⚠️ Risk Analysis
 
-# Tech Stack
-Frontend: Streamlit
-LLM: Groq (LLaMA3-70B)
-News Source: DuckDuckGo News API
-Environment: Python + .env
+# Why It Matters (Impact)
+- Empowers early-stage founders with actionable, data-backed insights.
+- Bridges the gap between research and strategy — no need to read 20 articles to understand a market.
+- Boosts innovation speed by giving idea-to-execution direction in one place.
+- Democratizes startup intelligence, making it accessible to solo founders, students, and non-tech entrepreneurs.
+
+# Built With
+Streamlit – for interactive UI
+Groq (LLaMA3-70B) – blazing-fast LLM backend
+DuckDuckGo Search – for live, unbiased news scraping
+Python & .env – secure backend logic
 
 # Why It’s Unique
 Unlike a generic chatbot, this app uses agentic AI — each part of the analysis is handled by a specialized role (like a mentor, market expert, strategist). This provides structured, actionable, and realistic business insights.
