@@ -25,5 +25,5 @@ Multiple specialized AI agents generate:
 - DuckDuckGo Search – for live, unbiased news scraping
 - Python & .env – secure backend logic
 
-# Why It’s Unique
+# How It’s Different
 Unlike a generic chatbot, this app uses agentic AI — each part of the analysis is handled by a specialized role (like a mentor, market expert, strategist). This provides structured, actionable, and realistic business insights.
