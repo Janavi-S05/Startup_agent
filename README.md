@@ -23,5 +23,5 @@ LLM: Groq (LLaMA3-70B)
 News Source: DuckDuckGo News API
 Environment: Python + .env
 
-- Why It’s Unique
+# Why It’s Unique
 Unlike a generic chatbot, this app uses agentic AI — each part of the analysis is handled by a specialized role (like a mentor, market expert, strategist). This provides structured, actionable, and realistic business insights.
