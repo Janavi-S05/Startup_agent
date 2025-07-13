@@ -20,10 +20,10 @@ Multiple specialized AI agents generate:
 - Democratizes startup intelligence, making it accessible to solo founders, students, and non-tech entrepreneurs.
 
 # Built With
-Streamlit – for interactive UI
-Groq (LLaMA3-70B) – blazing-fast LLM backend
-DuckDuckGo Search – for live, unbiased news scraping
-Python & .env – secure backend logic
+- Streamlit – for interactive UI
+- Groq (LLaMA3-70B) – blazing-fast LLM backend
+- DuckDuckGo Search – for live, unbiased news scraping
+- Python & .env – secure backend logic
 
 # Why It’s Unique
 Unlike a generic chatbot, this app uses agentic AI — each part of the analysis is handled by a specialized role (like a mentor, market expert, strategist). This provides structured, actionable, and realistic business insights.
