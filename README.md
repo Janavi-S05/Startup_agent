@@ -27,3 +27,5 @@ Multiple specialized AI agents generate:
 
 # How It’s Different
 Unlike a generic chatbot, this app uses agentic AI — each part of the analysis is handled by a specialized role (like a mentor, market expert, strategist). This provides structured, actionable, and realistic business insights.
+
+It’s a small hands-on step into building real-world agent-based AI systems — and it’s open to enhancements, experimentation, or complete reimagination. Happy learning :)
